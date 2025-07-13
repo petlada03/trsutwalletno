@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'eToro Wallet'
+project = '(848)-279-6613)'
 copyright = '2025'
 author = 'Carson McCullers'
 
