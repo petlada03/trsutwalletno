@@ -1,5 +1,5 @@
 ##################
-ow to Speak With a Trust Wallet Live Agent on Call – A Complete Guide
+How to Speak With a Trust Wallet Live Agent on Call – A Complete Guide
 ##################
 
 .. meta::
